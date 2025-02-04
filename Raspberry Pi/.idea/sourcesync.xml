@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SourceSyncRemoteConfigurationsService"><![CDATA[{
+  "connections": [
+    {
+      "type": "scp_configuration",
+      "name": "Raspberry Pi Zero SCP",
+      "hostname": "192.168.0.119",
+      "username": "pi",
+      "remote_workspace_path": "sourcesync/"
+    },
+    {
+      "type": "ssh_configuration",
+      "name": "Raspberry Pi Zero",
+      "hostname": "192.168.0.119",
+      "username": "pi",
+      "remote_workspace_path": "sourcesync/"
+    }
+  ],
+  "mainConnection": "Raspberry Pi Zero"
+}]]></component>
+</project>
